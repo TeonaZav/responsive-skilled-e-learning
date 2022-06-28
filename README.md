@@ -30,5 +30,4 @@ Our challenge was to build out this e-learning landing page using any tools, and
 - CSS Grid
 
 ## URL
-
 https://responsive-skilled-e-learning-t.netlify.app/
